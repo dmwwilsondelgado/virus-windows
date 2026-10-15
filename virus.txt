@@ -1,0 +1,13 @@
+@echo o
+start Excel
+start calc
+md c:\Pandora
+md c:\Pandora\info
+md c:\Pandora\info\Dir1
+md c:\Pandora\info\Dir2
+md c:\Pandora\info\Dir3
+echo Tengo el control de su Pc >c:\Pandora\info\Dir1\virus.txt
+echo Su información a sido copiada >c:\Pandora\info\Dir2\virus.txt
+echo Gracias por Compartir >c:\Pandora\info\Dir3\virus.txt
+cls
+
